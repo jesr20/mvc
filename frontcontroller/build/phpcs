@@ -1,0 +1,34 @@
+
+FILE: ...home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\DiceHand.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 28 | ERROR | [x] The closing parenthesis and the opening brace of a multi-line
+    |       |     function declaration must be on the same line
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...n64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\Game.php
+--------------------------------------------------------------------------------
+FOUND 10 ERRORS AFFECTING 9 LINES
+--------------------------------------------------------------------------------
+  14 | ERROR | [ ] The class-based use imports must follow the namespace
+     |       |     declaration in the file header
+  54 | ERROR | [ ] Method name "Game::StringNumberOfDices" is not in camel caps
+     |       |     format
+  54 | ERROR | [x] Opening brace should be on a new line
+  57 | ERROR | [x] Expected 1 space(s) after closing parenthesis; found 0
+  63 | ERROR | [x] Opening brace should be on a new line
+  92 | ERROR | [x] Blank line found at start of control structure
+ 100 | ERROR | [x] Blank line found at start of control structure
+ 146 | ERROR | [x] Expected 1 space(s) after closing parenthesis; found 0
+ 150 | ERROR | [x] Whitespace found before second semicolon of FOR loop
+ 174 | ERROR | [x] Blank line found at end of control structure
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 8 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+Time: 530ms; Memory: 8MB
+

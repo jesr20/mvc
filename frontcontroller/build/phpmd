@@ -1,0 +1,11 @@
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\DiceHand.php:37	Avoid unused local variables such as '$len'.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\Game.php:54	The method StringNumberOfDices is not named in camelCase.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\Game.php:70	Avoid using static access to class 'jesr20\Dice\Game' in method 'startGame'.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\Game.php:81	The method rollGame() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\Game.php:81	The method rollGame() has 112 lines of code. Current threshold is set to 100. Avoid really long methods.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\Game.php:111	Avoid using static access to class 'jesr20\Dice\Game' in method 'rollGame'.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Dice\Game.php:175	The method rollGame uses an else expression. Else clauses are basically not necessary and you can simplify the code by not using them.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Router\Router.php:36	The method dispatch() has a Cyclomatic Complexity of 34. The configured cyclomatic complexity threshold is 10.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Router\Router.php:36	The method dispatch() has 118 lines of code. Current threshold is set to 100. Avoid really long methods.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\src\Router\Router.php:117	The method dispatch uses an else expression. Else clauses are basically not necessary and you can simplify the code by not using them.
+C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\view\21.php	-	Unexpected token: }, line: 11, col: 1, file: C:\cygwin64\home\jespe\dbwebb-kurser\mvc\me\game\frontcontroller\view\21.php.
